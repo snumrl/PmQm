@@ -1,5 +1,8 @@
 # PmQm
 
+
+Related author : [Jehee Lee](http://mrl.snu.ac.kr/~jehee)
+
 PmQm is a library which handles character motion.
 
 It uses joint mask to apply joint operations on specific joints.
